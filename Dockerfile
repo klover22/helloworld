@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:10.16 
+From tomcat:8.5.75-jre8 
 
 # Maintainer 
 MAINTAINER "kloversolution@outlook.com" 
